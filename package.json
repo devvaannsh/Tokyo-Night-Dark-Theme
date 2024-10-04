@@ -1,20 +1,20 @@
 {
-    "title": "Name of the theme",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample dark theme.",
-    "version": "0.0.1",
+    "title": "Tokyo Night Dark",
+    "name": "github-Pluto-Tokyo Night Dark Theme",
+    "description": "Experience the sleek and dark vibes of Tokyo Nights in Phoenix Code",
+    "version": "1.0.1",
     "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "author": "Pluto (https://github.com/devvaannsh)",
+    "homepage": "https://github.com/devvaannsh/Tokyo-Night-Dark-Theme",
     "engines": {
         "brackets": ">=2.0.0"
     },
-    "categories": "demo",
+    "categories": "theme",
     "keywords": [
-        "phcode", "theme", "demo"
+        "phcode", "theme", "dark", "Tokyo Night", "Dark theme", "tokyo", "night theme", "Night", "Cool", "Beautiful Theme"
     ],
     "theme": {
-        "file": "my-theme.less",
+        "file": "tokyo-night-dark.less",
         "dark": true
     }
 }
